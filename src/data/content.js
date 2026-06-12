@@ -17,27 +17,27 @@ export const timeline = [
   {
     date: "April 29, 2025",
     title: "The First DM",
-    text: "I did not know it then, but one simple message was going to become the start of us.",
+    text: "I did not know it then, but one simple message was going to become the start of us. I literally reacted to your story because I wanted to break the ice.",
   },
   {
     date: "May 3, 2025",
     title: "Almost Met",
-    text: "We were both shy, so we postponed the plan. Funny how even the delay became part of the story.",
+    text: "We were both shy, so we postponed the plan. Funny how even the delay became part of the story. Remember I called you - Hi Sagarika xD",
   },
   {
     date: "May 4, 2025",
     title: "The First Walk",
-    text: "We finally met for the first time and went on a walk. That was the day she stopped being just a name on Instagram.",
+    text: "We finally met for the first time and went on a walk. That was the day you stopped being just a name on Instagram.",
   },
   {
     date: "August 11, 2025",
     title: "My First Car",
-    text: "I got my first car, and somewhere it felt like life was slowly becoming the kind of life I wanted to share with her.",
+    text: "I got my first car, and somewhere it felt like life was slowly becoming the kind of life I wanted to share with you.",
   },
   {
     date: "February 13, 2026",
     title: "Vietnam",
-    text: "Our first international trip together. New country, new memories, and one more chapter of us.",
+    text: "Our first international trip together. New country, new memories, and one more chapter of us. I was dying to make this happen, and I am so glad we did. I hope we have many more trips together.",
   },
 ];
 
