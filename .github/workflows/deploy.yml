@@ -31,15 +31,17 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Install dependencies
+        working-directory: hyrox-40-dashboard
         run: npm ci
 
       - name: Build
+        working-directory: hyrox-40-dashboard
         run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: hyrox-40-dashboard/out
 
   deploy:
     environment:

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Race Engine 40">
+  <rect width="512" height="512" rx="104" fill="#06080d"/>
+  <path d="M96 157c34 0 34 24 68 24s34-24 68-24 34 24 68 24 34-24 68-24 34 24 68 24" fill="none" stroke="#2ee6d6" stroke-width="30" stroke-linecap="round"/>
+  <path d="M96 246c34 0 34 24 68 24s34-24 68-24 34 24 68 24 34-24 68-24 34 24 68 24" fill="none" stroke="#b8ff4d" stroke-width="30" stroke-linecap="round"/>
+  <path d="M96 335c34 0 34 24 68 24s34-24 68-24 34 24 68 24 34-24 68-24 34 24 68 24" fill="none" stroke="#ff5a3d" stroke-width="30" stroke-linecap="round"/>
+</svg>

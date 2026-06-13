@@ -1,0 +1,19 @@
+{
+  "name": "Race Engine 40",
+  "short_name": "Race40",
+  "description": "40-day race prep dashboard with training, metrics, nutrition, and taper tracking.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#06080d",
+  "theme_color": "#06080d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
